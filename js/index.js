@@ -26,7 +26,7 @@
         "An online app built with Node.js, Express, and Mongo DB for sharing people's secrets. You need to sign up for an account to view others' secrets or create your own secret.",
       badgeCaption: "Secret-app",
       links: {
-        github: "https://github.com/Zack85219/Secret-app.git",
+        github: "https://github.com/Zack85219/secret-app.git",
         webPage: "https://infinite-mesa-99123.herokuapp.com/",
       },
       accomplishments: [
@@ -45,8 +45,8 @@
         "An online app for keeping notes. The app has functions that create flexible-size notes and delete notes in the recycle bin now. It is still in development. ",
       badgeCaption: "Keeper-app",
       links: {
-        github: "https://github.com/Zack85219/Keeper-app.git",
-        webPage: "https://zack85219.github.io/Keeper-app/",
+        github: "https://github.com/Zack85219/keeper-app.git",
+        webPage: "https://zack85219.github.io/keeper-app/",
       },
       accomplishments: [
         "Using JSX to render elements",
