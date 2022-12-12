@@ -15,6 +15,6 @@ $(document).ready(function () {
   // Init carousel slider
   $(".carousel.carousel-slider").carousel({
     fullWidth: true,
-    indicators: false,
+    indicators: true,
   });
 });
